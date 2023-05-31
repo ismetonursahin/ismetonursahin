@@ -10,7 +10,7 @@
 - 📄 Know about my experiences *[linkedin/in/ismetonursahin](https://www.linkedin.com/in/ismetonursahin/)*
 
 - ⚡ About me: **I'm a frontend developer who is starting to explore and improve myself. I have a passion for fun, social interactions, and musical instruments. While diving into the world of coding, I also continue to nurture my love for rhythms and melodies.**
- <br/>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ismetonursahin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismetonursahin1" height="30" width="40" /></a>
