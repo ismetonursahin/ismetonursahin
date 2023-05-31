@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">An enthusiastic and fast-learner frontend developer from Turkey.</h3>
 
-## Hey! It's İsmet Onur. I was born on November 2, 1999 - in Artvin. I am a graduate of Samsun University in Construction Technology. I am also currently studying Business Administration at Anadolu University.
+### Hey! It's İsmet Onur. I was born on November 2, 1999 - in Artvin. I am a graduate of Samsun University in Construction Technology. I am also currently studying Business Administration at Anadolu University.
 
 - 🌱 I’m currently learning *React*
 
