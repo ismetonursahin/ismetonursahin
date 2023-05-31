@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *ismetonursahin@gmail.com*
 
-- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/ismetonursahin/)
+- 📄 Know about my experiences [begunumumniyyy](https://www.linkedin.com/in/ismetonursahin/)
 
 - ⚡ About me: *I'm a frontend developer who is starting to explore and improve myself. I have a passion for fun, social interactions, and musical instruments. While diving into the world of coding, I also continue to nurture my love for rhythms and melodies.*
 
