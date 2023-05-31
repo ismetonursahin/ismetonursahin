@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">An enthusiastic and fast-learner frontend developer from Turkey.</h3>
 
-### **
-
 - 🌱 I’m currently learning *React*
 
-- 👨‍💻 All of my projects are available at *[my github profile](https://github.com/ismetonursahin)*
+- 👨‍💻 All of my projects are available at *[my GitHub profile](https://github.com/ismetonursahin)*
 
 - 📫 How to reach me *ismetonursahin@gmail.com*
 
 - 📄 Know about my experiences *[linkedin/in/ismetonursahin](https://www.linkedin.com/in/ismetonursahin/)*
 
-- ⚡ About me: *I'm a frontend developer who is starting to explore and improve myself. I have a passion for fun, social interactions, and musical instruments. While diving into the world of coding, I also continue to nurture my love for rhythms and melodies.*
+- ⚡ About me: **I'm a frontend developer who is starting to explore and improve myself. I have a passion for fun, social interactions, and musical instruments. While diving into the world of coding, I also continue to nurture my love for rhythms and melodies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
