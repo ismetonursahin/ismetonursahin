@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *React*
 
-- 👨‍💻 All of my projects are available at [my github profile](https://github.com/ismetonursahin)
+- 👨‍💻 All of my projects are available at *[my github profile](https://github.com/ismetonursahin)*
 
 - 📫 How to reach me *ismetonursahin@gmail.com*
 
