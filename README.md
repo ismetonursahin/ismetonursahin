@@ -13,7 +13,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ismetonursahin1" target="blank"><img align="center" style="margin:1px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismetonursahin1" height="30" width="40" /></a>
+<a href="https://twitter.com/ismetonursahin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismetonursahin1" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/ismetonursahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismetonursahin" height="30" width="40" /></a>
 <a href="https://fb.com/ismetonursahin15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismetonursahin15" height="30" width="40" /></a>
 <a href="https://instagram.com/ismetonursahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismetonursahin" height="30" width="40" /></a>
